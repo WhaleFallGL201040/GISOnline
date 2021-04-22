@@ -1,0 +1,22 @@
+ul li{
+    list-style: none;
+    display: block;
+    float: left;
+    background: rgb(139, 137, 137);
+    letter-spacing: 0.5em;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+li{
+    font-size: 20px;
+    letter-spacing: normal;
+    
+}
+.shouye{
+    font-size: 45px;
+    overflow: hidden;
+    text-indent: -9999em;
+}
